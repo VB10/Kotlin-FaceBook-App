@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974167469785",
+    "firebase_url": "https://faceappskotlin.firebaseio.com",
+    "project_id": "faceappskotlin",
+    "storage_bucket": "faceappskotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974167469785:android:dfb14f80e4bc5bda",
+        "android_client_info": {
+          "package_name": "hardwareandro.vb.faceappkotlins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974167469785-jvv2glig9u97plbo4mg3lssi3bq2r3bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hardwareandro.vb.faceappkotlins",
+            "certificate_hash": "f743f25945e1f82ca013df88dc7b9e039fe9cafa"
+          }
+        },
+        {
+          "client_id": "974167469785-g8fo1hv2cl7bib9q9jmhpafqe75vj3fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfS6MH_ouc8bo8SmZXvVD6HuBuC4dEMWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974167469785-g8fo1hv2cl7bib9q9jmhpafqe75vj3fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
